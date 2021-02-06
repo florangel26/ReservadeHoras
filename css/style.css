@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+}
+.nav{
+    background: #00B3EA;
+    height: 70px;
+    width: 100%;
+}
+
+.logo{
+    position: relative;
+    height: 53px;
+    width: 220px;
+    padding: 11px;
+    margin-left: 100px;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-weight: bold;
+    color: #013752;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    background-color: #8dd4ee;
+    font-size: 20px;
+    padding: 30px;
+    margin: 0 auto;
+    width: 300px;
+}
+ .contenedor-inputs{
+
+    width: 110px;
+ }
+
+ label{
+  font-size: 18px;
+  font-weight: bold;
+  color: #013752;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+
+ .inputcss{
+    width: 280px;
+    height: 25px;
+    margin-bottom: 10px;
+ }
+
+ .ConfirmDemo{
+   border: solid 1px #ccc;
+   background-color: rgb(246, 249, 255);
+   width: 259px;
+   height: 42px;
+   font-size: 20px;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #00B3EA;
+    margin-top: 120px;
+    
+   
+}
+p{
+    padding: 25px;
+    text-align: center;
+
+}
